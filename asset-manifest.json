@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my_portolio/static/css/main.d5829225.css",
-    "main.js": "/my_portolio/static/js/main.d05ee865.js",
+    "main.js": "/my_portolio/static/js/main.3e3a3bbb.js",
     "index.html": "/my_portolio/index.html",
     "main.d5829225.css.map": "/my_portolio/static/css/main.d5829225.css.map",
-    "main.d05ee865.js.map": "/my_portolio/static/js/main.d05ee865.js.map"
+    "main.3e3a3bbb.js.map": "/my_portolio/static/js/main.3e3a3bbb.js.map"
   },
   "entrypoints": [
     "static/css/main.d5829225.css",
-    "static/js/main.d05ee865.js"
+    "static/js/main.3e3a3bbb.js"
   ]
 }
